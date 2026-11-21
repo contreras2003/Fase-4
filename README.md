@@ -18,12 +18,12 @@ Funciones:
 
 Instrucciones de como ejecutar el sistema:
 
-1.Entrar al repositorio del proyecto en GitHub.
-2.Hacer clic en el botón verde Code.
-3.Seleccionar Download para descargar los archivos.
-4.Buscar el archivo descargado y extraerlo en una carpeta.
-5.Abrir Visual Studio Code y seleccionar File → Open Folder.
-6.Buscar y abrir la carpeta del proyecto.
-7.Ejecutar mediante Python
-8.Esperar a que termine la ejecución y revisar los resultados que aparecen en la terminal.
-9.Si uno quiere consultar los registros, abrir el archivo software_fj.log, que es donde quedan guardados los eventos y errores del programa.
+1.Entrar al repositorio del proyecto en GitHub.  
+2.Hacer clic en el botón verde Code.   
+3.Seleccionar Download para descargar los archivos.  
+4.Buscar el archivo descargado y extraerlo en una carpeta.  
+5.Abrir Visual Studio Code y seleccionar File → Open Folder.  
+6.Buscar y abrir la carpeta del proyecto.  
+7.Ejecutar mediante Python.  
+8.Esperar a que termine la ejecución y revisar los resultados que aparecen en la terminal.  
+9.Si uno quiere consultar los registros, abrir el archivo software_fj.log, que es donde quedan guardados los eventos y errores del programa.  
