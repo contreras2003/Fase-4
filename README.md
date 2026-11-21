@@ -1,11 +1,11 @@
 # Fase 4
 Fase 4 Practicas simuladas
 
-DESCRIPCION DEL SISTEMA:
+DESCRIPCION DEL SISTEMA:  
 Este sistema fue desarrollado en python lo que hace es permite gestionar clientes, servicios y reservas. Este sistema facilita el tregistro de información, la consulta de servicios, él control disponibilidad y el calculo de costos de reservas.
 por otra parte ayuda con las validaciones  para evitar datos incorrectos y sistema de registro de eventos y errores.
 
-Funciones:
+Funciones:  
 
 *Registro y validación de clientes.  
 *Registro de diferentes servicios, como salas, alquiler de equipos y asesorías.  
@@ -16,7 +16,7 @@ Funciones:
 *Manejo de excepciones para controlar errores.  
 *Registro de operaciones y errores mediante el módulo logging.  
 
-Instrucciones de como ejecutar el sistema:
+Instrucciones de como ejecutar el sistema:  
 
 1.Entrar al repositorio del proyecto en GitHub.  
 2.Hacer clic en el botón verde Code.   
