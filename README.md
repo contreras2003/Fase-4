@@ -7,7 +7,7 @@ por otra parte ayuda con las validaciones  para evitar datos incorrectos y siste
 
 Funciones:
 
-*Registro y validación de clientes.
+*Registro y validación de clientes.  
 *Registro de diferentes servicios, como salas, alquiler de equipos y asesorías.
 *Creación y cancelación de reservas.
 *Consulta de clientes, servicios y reservas.
