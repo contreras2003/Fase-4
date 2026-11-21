@@ -8,13 +8,13 @@ por otra parte ayuda con las validaciones  para evitar datos incorrectos y siste
 Funciones:
 
 *Registro y validación de clientes.  
-*Registro de diferentes servicios, como salas, alquiler de equipos y asesorías.
-*Creación y cancelación de reservas.
-*Consulta de clientes, servicios y reservas.
-*Control de disponibilidad de los servicios.
-*Cálculo de precios, descuentos e impuestos.
-*Manejo de excepciones para controlar errores.
-*Registro de operaciones y errores mediante el módulo logging.
+*Registro de diferentes servicios, como salas, alquiler de equipos y asesorías.  
+*Creación y cancelación de reservas.   
+*Consulta de clientes, servicios y reservas.  
+*Control de disponibilidad de los servicios.  
+*Cálculo de precios, descuentos e impuestos.  
+*Manejo de excepciones para controlar errores.  
+*Registro de operaciones y errores mediante el módulo logging.  
 
 Instrucciones de como ejecutar el sistema:
 
