@@ -429,8 +429,8 @@ def prueba_2():
     cliente = Cliente(
         "C02",
         "Juan Diaz",
-        "juan@gmail.com",
-        "00000000"
+        "juancorreo.com",
+        "0000000"
     )
     gestor.registrar_cliente(cliente)
 #Prueba 3. Registrar un servicio para reservar salas.
